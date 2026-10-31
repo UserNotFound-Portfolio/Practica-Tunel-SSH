@@ -34,7 +34,7 @@ Como esta práctica la ejecute en la misma máquina virtual utilice para estable
 Esto es lo ejecuté:
 
 ```bash
-ssh -L 9090:localhost:8080 usuario@192.168.1.100
+ssh -L 9090:localhost:8080 usuario@x.x.x.x
 ```
 
 Esto redirige el puerto local 9090 a la máquina virtual en el puerto 8080.
